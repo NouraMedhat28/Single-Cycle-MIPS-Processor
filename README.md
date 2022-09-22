@@ -4,5 +4,5 @@
 - Control unit 
 - Memories (Data memory and Instruction memory)
 <br/>
-<img src = "C:\Users\Noura Medhat\Pictures\Screenshots\Single-Cycle MIPS Processor microarchitecture.png", title = "Single-Cycle MIPS Processor microarchitecture">
+<img src = "https:\\Users\Noura Medhat\Pictures\Screenshots\Single-Cycle MIPS Processor microarchitecture.png", title = "Single-Cycle MIPS Processor microarchitecture">
 
