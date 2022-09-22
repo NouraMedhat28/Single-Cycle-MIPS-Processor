@@ -3,4 +3,6 @@
 - Datapath
 - Control unit 
 - Memories (Data memory and Instruction memory)
+<br/>
+<img src = "C:\Users\Noura Medhat\Pictures\Screenshots\Single-Cycle MIPS Processor microarchitecture", title = "Single-Cycle MIPS Processor microarchitecture">
 
