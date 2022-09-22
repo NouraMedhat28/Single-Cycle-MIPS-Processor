@@ -12,3 +12,7 @@
 <br/>
 #### <u> The top module of the single-cycle MIPS processor </u>
 ![The top module of the single-cycle MIPS processor](https://user-images.githubusercontent.com/96621514/191839816-a8fcf6ed-3af9-4d41-a607-36466ebda30d.png)
+<br/>
+<br/>
+<br/>
+### Reference: David M. Harris, Sarah L. Harris - Digital Design and Computer Architecture
